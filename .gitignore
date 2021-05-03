@@ -1,0 +1,15 @@
+/**/.idea/workspace.xml
+node_modules/
+.vs/
+bin/
+obj/
+package-lock.json
+/src/.idea/.idea.QuickStart/.idea/workspace.xml
+.idea/modules.xml
+.idea/src.iml
+.idea/vcs.xml
+src/.idea/.idea.QuickStart/.idea/.name
+src/.idea/.idea.QuickStart/.idea/indexLayout.xml
+src/.idea/.idea.QuickStart/.idea/misc.xml
+src/.idea/.idea.QuickStart/.idea/projectSettingsUpdater.xml
+src/.idea/.idea.QuickStart/.idea/vcs.xml
