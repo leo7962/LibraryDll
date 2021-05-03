@@ -1,7 +1,6 @@
-Quick start for `edge-js`  
-https://github.com/agracio/edge-js
-================
-# edge-js-quick-start
+# Library DLL
+
+# A demo to consume a DLL from Node
 
 1. Install dependencies `npm install`
 2. Build `src\QuickStart.sln` using Visual Studio 2017, JetBrains Rider or run `dotnet build src/QuickStart.sln`
